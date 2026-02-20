@@ -1,0 +1,39 @@
+{
+  "team": [
+    {
+      "id": "special_004",
+      "name": "Elena Petrova",
+      "role": "Robotics Engineer",
+      "seniority": "Senior",
+      "reason": "Strong background in robotics and software development, with experience in architecture and design."
+    },
+    {
+      "id": "mobile_008",
+      "name": "Sofia Rossi",
+      "role": "Mobile Developer",
+      "seniority": "Senior",
+      "reason": "Proven track record of delivering high-quality mobile applications with a strong understanding of software development principles."
+    },
+    {
+      "id": "game_003",
+      "name": "Ahmed Hassan",
+      "role": "Game Developer",
+      "seniority": "Senior",
+      "reason": "Extensive experience in game development, including design and architecture, with a strong portfolio of successful projects."
+    },
+    {
+      "id": "game_004",
+      "name": "Elena Petrova",
+      "role": "Graphics Engineer",
+      "seniority": "Senior",
+      "reason": "Strong background in computer graphics and game development, with experience in designing and implementing complex graphics systems."
+    },
+    {
+      "id": "frontend_007",
+      "name": "Jin Woo Kim",
+      "role": "Frontend Engineer",
+      "seniority": "Senior",
+      "reason": "Proven expertise in frontend development, including React and JavaScript, with a strong understanding of software development principles."
+    }
+  ]
+}

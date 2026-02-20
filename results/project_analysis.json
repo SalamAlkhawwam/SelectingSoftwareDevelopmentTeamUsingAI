@@ -1,0 +1,33 @@
+{
+  "project_type": "digital banking",
+  "domains": [
+    "payments",
+    "fraud detection",
+    "customer analytics",
+    "internal admin"
+  ],
+  "required_roles": [
+    {
+      "role": "senior software architect",
+      "seniority": "senior",
+      "skills": [
+        "architecture",
+        "design"
+      ]
+    },
+    {
+      "role": "data scientist",
+      "seniority": "junior",
+      "skills": [
+        "machine learning",
+        "data visualization"
+      ]
+    }
+  ],
+  "tech_stack": [
+    "java",
+    "spring boot",
+    "react"
+  ],
+  "team_size": 10
+}

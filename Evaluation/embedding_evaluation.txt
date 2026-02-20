@@ -1,0 +1,80 @@
+1- role = "Backend Engineer"
+   seniority = "Senior"
+   skills = ["API design", "scalable systems", "health data"]
+   ground_truth_ids = [
+              { "id": "backend_004", "name": "Markus Lindberg" },
+              { "id": "backend_010", "name": "Jamal Thompson" },
+              { "id": "backend_001", "name": "Ayesha Khan" }
+   ]
+2- role = "Frontend Engineer"
+   seniority = "Mid"
+   skills = ["dashboard UI", "accessibility"]
+   ground_truth_ids = [
+              { "id": "frontend_009", "name": "Samuel Green" },
+              { "id": "frontend_005", "name": "Diego Costa" },
+              { "id": "frontend_008", "name": "Elena Ivanova" }
+   ]
+3- role = "Fullstack Developer"
+   seniority = "Senior"
+   skills = ["web apps", "scalability"]
+   ground_truth_ids = [
+              { "id": "fullstack_001", "name": "Rajesh Iyer" },
+              { "id": "fullstack_010", "name": "Nadia Petrović" },
+              { "id": "fullstack_006", "name": "Sofia Petrova" }
+   ]
+4- role = "Machine Learning Engineer"
+   seniority = "Senior"
+   skills = ["fraud detection", "NLP"]
+   ground_truth_ids = [
+              { "id": "ai_001", "name": "Arjun Mehta" },
+              { "id": "ai_010", "name": "Maya Lopez" },
+              { "id": "ai_004", "name": "Ahmed Hassan" }
+   ]
+5- role = "Security Engineer"
+   seniority = "Senior"
+   skills = ["application security", "fintech compliance"]
+   ground_truth_ids = [
+              { "id": "security_001", "name": "Arjun Mehta" },
+              { "id": "security_006", "name": "Leila Haddad" },
+              { "id": "security_008", "name": "Emily Johnson" }
+   ]
+6- role = "DevOps Engineer"
+   seniority = "Senior"
+   skills = ["secure deployments", "monitoring"]
+   ground_truth_ids = [
+              { "id": "devops_004", "name": "Elena Petrova" },
+              { "id": "devops_008", "name": "Emily Johnson" },
+              { "id": "devops_006", "name": "Leila Haddad" }
+   ]
+7- role = "NLP Engineer"
+   seniority = "Mid"
+   skills = ["information retrieval", "text summarization"]
+   ground_truth_ids = [
+              { "id": "ai_007", "name": "Fatima Al-Hassan" },
+              { "id": "ai_003", "name": "Elena Petrova" },
+              { "id": "ai_005", "name": "Mateo Fernandez" }
+   ]
+8- role = "Data Engineer"
+   seniority = "Mid"
+   skills = ["data ingestion", "pipelines"]
+   ground_truth_ids = [
+              { "id": "data_010", "name": "Diego Costa" },
+              { "id": "data_005", "name": "Mateo Fernandez" },
+              { "id": "data_002", "name": "Sofia Petrova" }
+   ]
+9- role = "DevOps Engineer"
+   seniority = "Senior"
+   skills = ["cloud", "security", "kubernetes"]
+   ground_truth_ids = [
+              { "id": "devops_001", "name": "Arjun Mehta" },
+              { "id": "devops_006", "name": "Leila Haddad" },
+              { "id": "devops_010", "name": "Jin Woo Kim" }
+   ]
+10- role = "Frontend Engineer"
+    seniority = "Senior"
+    skills = ["complex dashboards", "performance"]
+    ground_truth_ids = [
+              { "id": "frontend_007", "name": "Jin Woo Kim" },
+              { "id": "frontend_001", "name": "Maya Lopez" },
+              { "id": "frontend_004", "name": "Svenja Müller" }
+    ]
